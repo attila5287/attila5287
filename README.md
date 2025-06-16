@@ -1,11 +1,14 @@
 # attila5287.github.io
+ 
+ 
 
-> github hosting &  deployed (active) apps on heroku-app and vercel-app platform. 
-# ACTIVE APPS  
+### *github hosting for no-back-end apps &  deployed (and active) full-stack apps on heroku-app and vercel-app platforms.* 
 ` (URL links to deployed apps, please find the code in repos below)`
-|app URL|description|github repo|  
+|app URL|description|![alt text](https://raw.githubusercontent.com/attila5287/node_js/main/img/gh.png "github-logo-png") github repo|  
 | --|--|  --|  
-| [HackerRank REACT interview question](https://react-hackerrank-itemlist.vercel.app/) |  Item List Manager: add an item with text input and submit button|  [solution code](https://github.com/attila5287/react-hackerrank-itemlist)|  
+| [Word Omitter](https://react-hackerrank-wordomitter.vercel.app/) |HackerRank REACT Challenge (interview question) :  add next, prev and reset buttons| [react-hackerrank-wordomitter](https://github.com/attila5287/react-hackerrank-wordomitter) |
+| [Slide Show App](https://react-hackerrank-slideshow.vercel.app/) |HackerRank REACT Challenge  (interview question):  add next, prev and reset buttons to move the slides using mock data| [react-hackerrank-slideshow](https://github.com/attila5287/react-hackerrank-slideshow) |
+| [Item List Manager](https://react-hackerrank-itemlist.vercel.app/) |HackerRank REACT Challenge  (interview question) add an item with text input and submit button, mostly like a todo app|  [react-hackerrank-slideshow](https://github.com/attila5287/react-hackerrank-itemlist)|  
 | [Drone 3d Route Planner](https://droneqube.vercel.app/) | serverless, client-side node-js app, drawing 3-d route for drone|[droneqube](https://github.com/attila5287/droneqube)|| 
 | [Flight Route 3d](https://attila5287.github.io/flight-route-3d/) | Extended edition of above drone flight route planner- in development, need form elements| 
 | [ElectionDataViz](https://electiondataviz.herokuapp.com/) | python flask framework, d3.JS charts, MIT 2020 election data set| 
@@ -95,6 +98,7 @@
 |link| Description|
 |--|--|
 |[attila5287.github.io](https://github.com/attila5287/attila5287.github.io)| currently has tableau dashboard embedded with links in dropdowns above|
+|[attila5287.github.io/portfolio](https://attila5287.github.io/portfolio/)| portfolio (built in REACT) only includes those apps developed during the Full Stack Developer bootcamp|
 |[attila-turkoz](https://github.com/attila5287/attila-turkoz)| new on vercel with markdown format, under-development|
 
 ## m-Code (mash-up, power query)
@@ -140,7 +144,7 @@
 |[think_pyth0n](https://github.com/attila5287/think_pyth0n)| Allen Downey, *Think Python* inspired card games, OOP examples|
 
 
-## Logos, images and mock user data
+## Logos (custom designed), images and mock user data 
 |Image Repo| Description|
 |--|--|
 |[blackjack_assets](https://github.com/attila5287/blackjack_assets)||
@@ -165,13 +169,13 @@
 
 ---
 
-# About Developer 
+## *About Developer*
 | ![dev]( https://raw.githubusercontent.com/attila5287/img_readme/main/all/dev.jpg "dev-icon") | attila turkoz | 
 | -------------   | -------------: |
 | Repos | [github.com/attila5287 ](https://github.com/attila5287/) |
 | Profile | [ attila5287.github.io ](https:///attila5287.github.io/) |
-| Gravatar    |  https://attilaturkoz.pro/| 
 | Linkedin    |  https://www.linkedin.com/in/attilaturkoz/ | 
+| Gravatar    |  https://attilaturkoz.pro/| 
 | Email    |  atiturkoz@gmail.com | 
 
 
