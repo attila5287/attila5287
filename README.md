@@ -1,14 +1,109 @@
-# attila5287.github.io
- 
+# Attila's Github Repos  
+https://attila5287.github.io/search-my-repos/
+
+## Mapbox-Draw-GL & REACT
+    Generating 3-d drone flight route. User draws the basic shape for the route using    the form elements then the code will generate extrusion (secondary) and line (primary: route) layers   accordingly. The REACT state will render layers when form elements change 
+
+|Github|Vercel|Route|  
+|--|--| --| 
+|![gh-ico][gh] [code1][dg1] | ![r-ico][react] [demo3][dv1]| geo|
+|![gh-ico][gh] [code2][dg2] | ![r-ico][react] [demo4][dv2]| slope|
+|![gh-ico][gh] [code3][dg3] | ![r-ico][react] [demo2][dv3]| area|
+|![gh-ico][gh] [code4][dg4] | ![r-ico][react] [demo5][dv4]| waypoint|
+
+![react-badge](https://raw.githubusercontent.com/attila5287/img_readme/refs/heads/main/new/react_badge_96.png)
+
+[dg1]:https://www.github.com/attila5287/drone-route-area
+[dg2]:https://www.github.com/attila5287/drone-route-geo
+[dg3]:https://www.github.com/attila5287/drone-route-slope
+[dg4]:https://www.github.com/attila5287/drone-route-waypoint
+
+[dv1]:https://drone-route-area.vercel.app
+[dv2]:https://drone-route-geo.vercel.app
+[dv3]:https://drone-route-slope.vercel.app
+[dv4]:https://drone-route-waypoint.vercel.app
+
+[gh]:https://img.icons8.com/offices/30/github.png
+[react]:https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png
+
+    
+
+## Mapbox-REACT examples
+
+`examples from mapbox documentation`
+
+|github link |vercel link|reference Mapbox docs ex|
+|--|--|--|
+|![gh-icon][gh] [code 1][g1] | ![react-icon][react] [demo1][v1] | Draw-polygon |
+|![gh-icon][gh] [code 2][g2] | ![react-icon][react] [demo2][v2] | Extrude-polygons|
+|![gh-icon][gh] [code 3][g3] | ![react-icon][react] [demo3][v3] | Basic mapbox-REACT |
+|![gh-icon][gh] [code 4][g4] | ![react-icon][react] [demo4][v4] | Dynamic Markers |
+|![gh-icon][gh] [code 5][g5] | ![react-icon][react] [demo5][v5] | Address Auti-Fill |
+|![gh-icon][gh] [code 6][g6] | ![react-icon][react] [demo6][v6] | Search Point of Interests |
+
+[v1]:https://react-draw-polygon.vercel.app
+[v2]:https://extrude-polygons-react.vercel.app
+[v3]:https://drone-vite-react.vercel.app
+[v4]:https://dynamic-markers-react.vercel.app
+[v5]:https://mapbox-react-address-autofill.vercel.app
+[v6]:https://mapbox-search-poi.vercel.app
+
+[g1]:https://www.github.com/attila5287/react-draw-polygon
+[g2]:https://www.github.com/attila5287/extrude-polygons-react
+[g3]:https://www.github.com/attila5287/drone-vite-react
+[g4]:https://www.github.com/attila5287/dynamic-markers-react
+[g5]:https://www.github.com/attila5287/mapbox-react-address-autofill
+[g6]:https://www.github.com/attila5287/mapbox-search-poi
+
+
+## HackerRank REACT challenges (10/10)
+
+`hackerrank is a website that provides challenging assignments for technical parts of the interviews`
+
+|Github Repo|Demo Vercel|Challenge|
+|--|--|--|
+|[code7] ![gh-icon][gh]| [demo7] ![react-icon][react] | itemlist |
+|[code8] ![gh-icon][gh]| [demo8] ![react-icon][react] | slideshow |
+|[code9] ![gh-icon][gh]| [demo9] ![react-icon][react] | wordomitter |
+|[code0] ![gh-icon][gh]| [demo0] ![react-icon][react] | article-sorting |
+|[code1] ![gh-icon][gh]| [demo1] ![react-icon][react] | blog |
+|[code2] ![gh-icon][gh]| [demo2] ![react-icon][react] | code-review |
+|[code3] ![gh-icon][gh]| [demo3] ![react-icon][react] | contact-form |
+|[code4] ![gh-icon][gh]| [demo4] ![react-icon][react] | cryptorank-exchange |
+|[code5] ![gh-icon][gh]| [demo5] ![react-icon][react] | employee-validation |
+|[code6] ![gh-icon][gh]| [demo6] ![react-icon][react] | medical-records |
+
+[gh]:https://img.icons8.com/offices/30/github.png
+[react]:https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png
+
+[code0]:https://github.com/attila5287/hackerrank-react-article-sorting
+[code1]:https://github.com/attila5287/hackerrank-react-blog
+[code2]:https://github.com/attila5287/hackerrank-react-code-review
+[code3]:https://github.com/attila5287/hackerrank-react-contact-form
+[code4]:https://github.com/attila5287/hackerrank-react-cryptorank-exchange
+[code5]:https://github.com/attila5287/hackerrank-react-employee-validation
+[code6]:https://github.com/attila5287/hackerrank-react-medical-records
+[code7]:https://github.com/attila5287/react-hackerrank-itemlist
+[code8]:https://github.com/attila5287/react-hackerrank-slideshow
+[code9]:https://github.com/attila5287/react-hackerrank-wordomitter
+
+[demo0]:https://hackerrank-react-article-sorting.vercel.app
+[demo1]:https://hackerrank-react-blog.vercel.app
+[demo2]:https://hackerrank-react-code-review.vercel.app
+[demo3]:https://hackerrank-react-contact-form.vercel.app
+[demo4]:https://hackerrank-react-cryptorank-exchang.vercel.app
+[demo5]:https://hackerrank-react-employee-validatio.vercel.app
+[demo6]:https://hackerrank-react-medical-records.vercel.app
+[demo7]:https://react-hackerrank-itemlist.vercel.app
+[demo8]:https://react-hackerrank-slideshow.vercel.app
+[demo9]:https://react-hackerrank-wordomitter.vercel.app
+
  
 
-### *github hosting for no-back-end apps &  deployed (and active) full-stack apps on heroku-app and vercel-app platforms.* 
-` (URL links to deployed apps, please find the code in repos below)`
+### deployed (and active) full-stack apps on heroku-app and vercel-app platforms along with github.io hosting.* 
+` (URL links references to deployed apps, please find the code in repos below)`
 |app URL|description|![alt text](https://raw.githubusercontent.com/attila5287/node_js/main/img/gh.png "github-logo-png") github repo|  
 | --|--|  --|  
-| [Word Omitter](https://react-hackerrank-wordomitter.vercel.app/) |HackerRank REACT Challenge (interview question) :  add next, prev and reset buttons| [react-hackerrank-wordomitter](https://github.com/attila5287/react-hackerrank-wordomitter) |
-| [Slide Show App](https://react-hackerrank-slideshow.vercel.app/) |HackerRank REACT Challenge  (interview question):  add next, prev and reset buttons to move the slides using mock data| [react-hackerrank-slideshow](https://github.com/attila5287/react-hackerrank-slideshow) |
-| [Item List Manager](https://react-hackerrank-itemlist.vercel.app/) |HackerRank REACT Challenge  (interview question) add an item with text input and submit button, mostly like a todo app|  [react-hackerrank-slideshow](https://github.com/attila5287/react-hackerrank-itemlist)|  
 | [Drone 3d Route Planner](https://droneqube.vercel.app/) | serverless, client-side node-js app, drawing 3-d route for drone|[droneqube](https://github.com/attila5287/droneqube)|| 
 | [Flight Route 3d](https://attila5287.github.io/flight-route-3d/) | Extended edition of above drone flight route planner- in development, need form elements| 
 | [ElectionDataViz](https://electiondataviz.herokuapp.com/) | python flask framework, d3.JS charts, MIT 2020 election data set| 
@@ -25,7 +120,6 @@
 |* [Rota Izmir](https://rotaizmir.herokuapp.com/)  | app built for youth community, postgres SQL database with admin-member-guest authorization| 
 |*|needs SQL database reset on heroku|
 
-# Attila's Code  (link to code repos, total of ~100)
 
 ## Denver University Data Analytics & Visualization 2018-2019  (Coding Bootcamp) 
 > This was my first bootcamp (out of three), went to ground classes for about 6 months in Denver from August 2018 through March 2019. Python intensive coding was fun, also learned JS here and built data-related apps, interactive dashboards and deployed on heroku platform.   
