@@ -13,10 +13,10 @@ https://attila5287.github.io/search-my-repos/
 
 ![react-badge](https://raw.githubusercontent.com/attila5287/img_readme/refs/heads/main/new/react_badge_96.png)
 
-[dg1]:https://www.github.com/attila5287/drone-route-area
-[dg2]:https://www.github.com/attila5287/drone-route-geo
-[dg3]:https://www.github.com/attila5287/drone-route-slope
-[dg4]:https://www.github.com/attila5287/drone-route-waypoint
+[dg1]:
+[dg2]:
+[dg3]:
+[dg4]:
 
 [dv1]:https://drone-route-area.vercel.app
 [dv2]:https://drone-route-geo.vercel.app
