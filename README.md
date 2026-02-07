@@ -18,10 +18,10 @@ https://attila5287.github.io/search-my-repos/
 [dg3]:
 [dg4]:
 
-[dv1]:https://drone-route-area.vercel.app
-[dv2]:https://drone-route-geo.vercel.app
-[dv3]:https://drone-route-slope.vercel.app
-[dv4]:https://drone-route-waypoint.vercel.app
+[dv]:https://drone-route-area.vercel.app
+[dv]:https://drone-route-geo.vercel.app
+[dv]:https://drone-route-slope.vercel.app
+[dv]:https://drone-route-waypoint.vercel.app
 
 [gh]:https://img.icons8.com/offices/30/github.png
 [react]:https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png
